@@ -277,4 +277,3 @@ function menuBar() {
   const menu = Menu.buildFromTemplate(template);
   Menu.setApplicationMenu(menu)
 }
-© 2022 GitHub, Inc.
